@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\bin\Debug\net6.0\22.Dynamic.exe
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\bin\Debug\net6.0\22.Dynamic.deps.json
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\bin\Debug\net6.0\22.Dynamic.runtimeconfig.json
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\bin\Debug\net6.0\22.Dynamic.dll
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\bin\Debug\net6.0\22.Dynamic.pdb
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\obj\Debug\net6.0\22.Dynamic.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\obj\Debug\net6.0\22.Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\obj\Debug\net6.0\22.Dynamic.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\obj\Debug\net6.0\22.Dynamic.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\obj\Debug\net6.0\22.Dynamic.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\obj\Debug\net6.0\22.Dynamic.dll
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\obj\Debug\net6.0\refint\22.Dynamic.dll
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\obj\Debug\net6.0\22.Dynamic.pdb
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\obj\Debug\net6.0\22.Dynamic.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson22.LINQ\22.Dynamic\obj\Debug\net6.0\ref\22.Dynamic.dll

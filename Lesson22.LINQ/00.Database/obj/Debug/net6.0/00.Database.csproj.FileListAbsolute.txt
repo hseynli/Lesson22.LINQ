@@ -1,0 +1,12 @@
+D:\Projects\VS Projects\Lesson22.LINQ\00.Database\bin\Debug\net6.0\00.Database.deps.json
+D:\Projects\VS Projects\Lesson22.LINQ\00.Database\bin\Debug\net6.0\00.Database.dll
+D:\Projects\VS Projects\Lesson22.LINQ\00.Database\bin\Debug\net6.0\00.Database.pdb
+D:\Projects\VS Projects\Lesson22.LINQ\00.Database\obj\Debug\net6.0\00.Database.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson22.LINQ\00.Database\obj\Debug\net6.0\00.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson22.LINQ\00.Database\obj\Debug\net6.0\00.Database.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson22.LINQ\00.Database\obj\Debug\net6.0\00.Database.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson22.LINQ\00.Database\obj\Debug\net6.0\00.Database.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson22.LINQ\00.Database\obj\Debug\net6.0\00.Database.dll
+D:\Projects\VS Projects\Lesson22.LINQ\00.Database\obj\Debug\net6.0\refint\00.Database.dll
+D:\Projects\VS Projects\Lesson22.LINQ\00.Database\obj\Debug\net6.0\00.Database.pdb
+D:\Projects\VS Projects\Lesson22.LINQ\00.Database\obj\Debug\net6.0\ref\00.Database.dll
