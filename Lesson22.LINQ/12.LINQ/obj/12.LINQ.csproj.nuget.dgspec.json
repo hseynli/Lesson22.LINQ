@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\VS Projects\\Lesson22.LINQ\\12.LINQ\\12.LINQ.csproj": {}
+    "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\12.LINQ\\12.LINQ.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\VS Projects\\Lesson22.LINQ\\00.Database\\00.Database.csproj": {
+    "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\00.Database\\00.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson22.LINQ\\00.Database\\00.Database.csproj",
+        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\00.Database\\00.Database.csproj",
         "projectName": "00.Database",
-        "projectPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ\\00.Database\\00.Database.csproj",
+        "projectPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\00.Database\\00.Database.csproj",
         "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ\\00.Database\\obj\\",
+        "outputPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\00.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\Projects\\VS Projects\\Lesson22.LINQ\\12.LINQ\\12.LINQ.csproj": {
+    "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\12.LINQ\\12.LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson22.LINQ\\12.LINQ\\12.LINQ.csproj",
+        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\12.LINQ\\12.LINQ.csproj",
         "projectName": "12.LINQ",
-        "projectPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ\\12.LINQ\\12.LINQ.csproj",
+        "projectPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\12.LINQ\\12.LINQ.csproj",
         "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ\\12.LINQ\\obj\\",
+        "outputPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\12.LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Projects\\VS Projects\\Lesson22.LINQ\\00.Database\\00.Database.csproj": {
-                "projectPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ\\00.Database\\00.Database.csproj"
+              "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\00.Database\\00.Database.csproj": {
+                "projectPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\00.Database\\00.Database.csproj"
               }
             }
           }

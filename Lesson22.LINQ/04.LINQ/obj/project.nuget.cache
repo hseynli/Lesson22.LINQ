@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yiVj2yktsD7w5dBLRp2cShCiHAfBo2ECa6X23D+oLJT+1aKdOh0qmqn5CRddm0sCxV+uYtq1g+8CDE1Wzl4Slg==",
+  "dgSpecHash": "EjoaY+LormnuRxX/mY8VjskZ7PR9DWr6Ld2bjupzN+UkHrrLTxVV1/FoOxOi0kA1cObWj011XHamMNtE6eoccA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson22.LINQ\\04.LINQ\\04.LINQ.csproj",
+  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\04.LINQ\\04.LINQ.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

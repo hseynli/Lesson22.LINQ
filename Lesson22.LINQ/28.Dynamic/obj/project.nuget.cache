@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7zp6sXVCDzEljfq/3L5tehxs0ljqf5cIwzw4HnCMONy+mqLzQKraV+WennR1nO5k8YLq7rYnM1RWNoRQ7ZgXdA==",
+  "dgSpecHash": "HQlh5GaW62/vPqhTi+3q+eW4DioaYcOxol63oncmFkE+YD7rrxjQqYg5UiqqYt8o6yKu1Bg3NIKQW5AjAKZTJw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson22.LINQ\\28.Dynamic\\28.Dynamic.csproj",
+  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\28.Dynamic\\28.Dynamic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

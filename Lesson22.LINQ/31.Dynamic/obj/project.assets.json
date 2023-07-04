@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson22.LINQ\\31.Dynamic\\31.Dynamic.csproj",
+      "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\31.Dynamic\\31.Dynamic.csproj",
       "projectName": "31.Dynamic",
-      "projectPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ\\31.Dynamic\\31.Dynamic.csproj",
+      "projectPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\31.Dynamic\\31.Dynamic.csproj",
       "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ\\31.Dynamic\\obj\\",
+      "outputPath": "D:\\Projects\\VS Projects\\Lesson22.LINQ.Git\\Lesson22.LINQ\\31.Dynamic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
